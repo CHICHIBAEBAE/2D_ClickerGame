@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statName: "\uACF5\uACA9\uB825"
   statDescription: 
-  statValue: 0
-  statCost: 10
+  statValue: 10
+  statCost: 100
   icon: {fileID: 21300000, guid: ce683041f000c7c48b73e8fbda566384, type: 3}
